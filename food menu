@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Menu</title>
+</head>
+<body>
+    <h1>Welcome to Our Food Menu!</h1>
+    <ul>
+        <li><a href="menu1.html">Menu 1</a></li>
+        <li><a href="menu2.html">Menu 2</a></li>
+        <li><a href="menu3.html">Menu 3</a></li>
+        <li><a href="menu4.html">Menu 4</a></li>
+    </ul>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu 1</title>
+</head>
+<body>
+    <h1>Menu 1</h1>
+    <ul>
+        <li>Item 1 - $10.99</li>
+        <li>Item 2 - $8.99</li>
+        <li>Item 3 - $12.99</li>
+        <!-- Add more items as needed -->
+    </ul>
+</body>
+</html>
+git add .
+git commit -m "Added initial HTML files"
+git push origin main
